@@ -15,7 +15,7 @@ body {
 /* ================= HERO ================= */
 .hero {
   position: relative;
-  height: 65vh;
+  height: 55vh;
   background: url("../images/hero-bg.png") center/cover no-repeat;
   display: flex;
   align-items: center;
