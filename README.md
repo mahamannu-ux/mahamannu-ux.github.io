@@ -1,1 +1,1 @@
-# mahamannu-ux-github.io
+# mahamannu-ux.github.io
